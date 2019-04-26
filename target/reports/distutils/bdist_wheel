@@ -1,0 +1,39 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-3.6' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib
+copying predection.py -> build/lib
+copying ann.py -> build/lib
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+copying build/lib/predection.py -> build/bdist.linux-x86_64/wheel
+copying build/lib/ann.py -> build/bdist.linux-x86_64/wheel
+running install_egg_info
+running egg_info
+writing Capstone.egg-info/PKG-INFO
+writing dependency_links to Capstone.egg-info/dependency_links.txt
+writing namespace_packages to Capstone.egg-info/namespace_packages.txt
+writing top-level names to Capstone.egg-info/top_level.txt
+reading manifest file 'Capstone.egg-info/SOURCES.txt'
+writing manifest file 'Capstone.egg-info/SOURCES.txt'
+Copying Capstone.egg-info to build/bdist.linux-x86_64/wheel/Capstone-1.0.dev0-py3.6.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/Capstone-1.0.dev0.dist-info/WHEEL
+creating 'dist/Capstone-1.0.dev0-py3-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'ann.py'
+adding 'predection.py'
+adding 'Capstone-1.0.dev0.dist-info/METADATA'
+adding 'Capstone-1.0.dev0.dist-info/WHEEL'
+adding 'Capstone-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'Capstone-1.0.dev0.dist-info/top_level.txt'
+adding 'Capstone-1.0.dev0.dist-info/zip-safe'
+adding 'Capstone-1.0.dev0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel

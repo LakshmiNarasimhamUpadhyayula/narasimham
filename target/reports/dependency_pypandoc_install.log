@@ -1,0 +1,11 @@
+Could not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/usr/lib/python3.6/site-packages/pypandoc-1.3.3.dist-info'
+Consider using the `--user` option or check the permissions.
+
+You are using pip version 10.0.1, however version 19.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+b/python3.6/site-packages (from pypandoc~=1.3.0) (39.0.1)
+Installing collected packages: pypandoc
+  Found existing installation: pypandoc 1.4
+    Uninstalling pypandoc-1.4:
+      Successfully uninstalled pypandoc-1.4
+  Rolling back uninstall of pypandoc
